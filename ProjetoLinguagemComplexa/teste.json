@@ -1,0 +1,20 @@
+[
+    {
+        "Username": "diogo",
+        "Password": "abc123456",
+        "Saldo": 10,
+        "Historico": []
+    },
+    {
+        "Username": "ana",
+        "Password": "abc123456",
+        "Saldo": 0,
+        "Historico": []
+    },
+    {
+        "Username": "diogo",
+        "Password": "abc123456",
+        "Saldo": 0,
+        "Historico": []
+    }
+]
