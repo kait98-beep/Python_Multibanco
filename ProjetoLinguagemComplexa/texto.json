@@ -1,0 +1,18 @@
+[
+    {
+        "Username": "diogo",
+        "Password": "abc123456",
+        "Saldo": 50.0,
+        "Historico": [
+            "Transferencia: enviado para ana em 2026-10-08 00:03:03.662750, o valor de 50.0"
+        ]
+    },
+    {
+        "Username": "ana",
+        "Password": "abc123456",
+        "Saldo": 50.0,
+        "Historico": [
+            "Transferencia: recebido de diogo em 2026-10-08 00:03:03.662750, o valor de 50.0"
+        ]
+    }
+]

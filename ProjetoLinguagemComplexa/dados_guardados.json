@@ -1,0 +1,86 @@
+[
+    {
+        "Username": "ana",
+        "Password": "anan23",
+        "Saldo": 0.0,
+        "Historico": [
+            "Deposito de 5.0",
+            "Transferencia: enviado para ana2 em 2026-09-29 00:23:57.506822, o valor de 2.0",
+            "Transferencia: enviado para ana3 em 2026-09-29 00:24:04.107895, o valor de 1.0",
+            "Transferencia: enviado para ana2 em 2026-10-02 22:16:24.581674, o valor de 2.0",
+            "Deposito de 2.0",
+            "Deposito de 2.0",
+            "Transferencia: enviado para baya em 2026-10-06 00:51:43.707795, o valor de 2.0",
+            "Deposito de 2.0",
+            "Transferencia: enviado para ana5 em 2026-10-07 23:27:37.693859, o valor de 2.0",
+            "Transferencia: enviado para ana5 em 2026-10-07 23:44:02.528135, o valor de 2.0",
+            "Deposito de 2.0",
+            "Transferencia: enviado para ana4 em 2026-10-07 23:49:57.124697, o valor de 2.0",
+            "Deposito de 2.0",
+            "Transferencia: enviado para ana1 em 2026-10-07 23:52:43.255591, o valor de 10.0",
+            "Transferencia: enviado para ana1 em 2026-10-07 23:53:43.069945, o valor de 8.0"
+        ]
+    },
+    {
+        "Username": "ana1",
+        "Password": "anan23",
+        "Saldo": 33.0,
+        "Historico": [
+            "Deposito de 15.0",
+            "Transferencia: recebido de ana em 2026-10-07 23:52:43.255591, o valor de 10.0",
+            "Transferencia: recebido de ana em 2026-10-07 23:53:43.069945, o valor de 8.0"
+        ]
+    },
+    {
+        "Username": "ana2",
+        "Password": "anan23",
+        "Saldo": 39.0,
+        "Historico": [
+            "Deposito de 35.0",
+            "Transferencia: recebido de ana em 2026-09-29 00:23:57.506822, o valor de 2.0",
+            "Transferencia: recebido de ana em 2026-10-02 22:16:24.581674, o valor de 2.0"
+        ]
+    },
+    {
+        "Username": "ana3",
+        "Password": "anan23",
+        "Saldo": 26.0,
+        "Historico": [
+            "Deposito de 25.0",
+            "Transferencia: recebido de ana em 2026-09-29 00:24:04.107895, o valor de 1.0"
+        ]
+    },
+    {
+        "Username": "ana4",
+        "Password": "anan23",
+        "Saldo": 77.0,
+        "Historico": [
+            "Deposito de 75.0",
+            "Transferencia: recebido de ana em 2026-10-07 23:49:57.124697, o valor de 2.0"
+        ]
+    },
+    {
+        "Username": "ana5",
+        "Password": "anan23",
+        "Saldo": 81.0,
+        "Historico": [
+            "Deposito de 75.0",
+            "Transferencia: recebido de ana em 2026-10-07 23:27:37.693859, o valor de 2.0",
+            "Transferencia: recebido de ana em 2026-10-07 23:44:02.528135, o valor de 2.0"
+        ]
+    },
+    {
+        "Username": "bana",
+        "Password": "banan23",
+        "Saldo": 0,
+        "Historico": []
+    },
+    {
+        "Username": "baya",
+        "Password": "baya56",
+        "Saldo": 2.0,
+        "Historico": [
+            "Transferencia: recebido de ana em 2026-10-06 00:51:43.707795, o valor de 2.0"
+        ]
+    }
+]
